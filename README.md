@@ -4,7 +4,7 @@ A minimalist and responsive To-Do List app built for quick task management.
 
 ## 🚀 Live Preview
 
-👉 [Try the app here](https://dichev-design.github.io/todo-app)
+👉 [Try the app here](https://dichev-design.github.io/To-Do-App/)
 
 ## 📦 Features
 
